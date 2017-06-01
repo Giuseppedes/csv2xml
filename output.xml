@@ -1,0 +1,92 @@
+<root>
+<row>
+<id>1</id>
+<campagnaGEOGNOSTICA>CS_2016</campagnaGEOGNOSTICA>
+<sondaggio>MPI S1</sondaggio>
+<verticale>D</verticale>
+<campione>AM GT</campione>
+<Est>4483422,65</Est>
+<Nord>689065,46</Nord>
+<quotaboccaforo>1</quotaboccaforo>
+<PROFONDITA>da 0 a 1.2</PROFONDITA>
+<zmedia>0,6</zmedia>
+<GF>0</GF>
+<SF>34,86</SF>
+<MF>40,59</MF>
+<CF>24,54</CF>
+<kn>18,38</kn>
+<_v0>5,2</_v0>
+<e0ave0min-e0max>0.62/0.31-1.24</e0ave0min-e0max>
+<LIavLImax-LImin>1.5/0.99-2.35</LIavLImax-LImin>
+<sp>1</sp>
+<OCR>1</OCR>
+<Gs>2,53</Gs>
+<wL>114,01</wL>
+<PI>66,47</PI>
+<A>1</A>
+<USCS>CH</USCS>
+<AGI>limo con argilla sabbioso</AGI>
+<cu>1</cu>
+<cu_TRX>1</cu_TRX>
+<cu_VT>1</cu_VT>
+<cu_Penetrometer>1</cu_Penetrometer>
+<cp_TRX>1</cp_TRX>
+<fp_TRX>1</fp_TRX>
+<fcs_TRX>1</fcs_TRX>
+<cp_DS>1</cp_DS>
+<fp_DS>1</fp_DS>
+<fcs_DS>1</fcs_DS>
+<Crav_EDO>1</Crav_EDO>
+<Ccav>1</Ccav>
+<Csav_EDO>1</Csav_EDO>
+<K>1</K>
+<Ck_EDO>1</Ck_EDO>
+<K>1</K>
+<Ck_Permeameter>1</Ck_Permeameter>
+</row>
+<row>
+<id>2</id>
+<campagnaGEOGNOSTICA>CS_2016</campagnaGEOGNOSTICA>
+<sondaggio>MPI S1</sondaggio>
+<verticale>B</verticale>
+<campione>H CC GT </campione>
+<Est>4483422,65</Est>
+<Nord>689065,46</Nord>
+<quotaboccaforo>1</quotaboccaforo>
+<PROFONDITA>da 10.4 a 11.1</PROFONDITA>
+<zmedia>10,75</zmedia>
+<GF>0</GF>
+<SF>23,55</SF>
+<MF>48,68</MF>
+<CF>27,77</CF>
+<kn>18,38</kn>
+<_v0>89,5</_v0>
+<e0ave0min-e0max>0.99/0.5-2</e0ave0min-e0max>
+<LIavLImax-LImin>0.84/0.42-1.68</LIavLImax-LImin>
+<sp>150</sp>
+<OCR>2</OCR>
+<Gs>2,62</Gs>
+<wL>41,58</wL>
+<PI>18,06</PI>
+<A>1</A>
+<USCS>CH</USCS>
+<AGI>limo con argilla sabbioso</AGI>
+<cu>1</cu>
+<cu_TRX>1</cu_TRX>
+<cu_VT>1</cu_VT>
+<cu_Penetrometer>1</cu_Penetrometer>
+<cp_TRX>1</cp_TRX>
+<fp_TRX>1</fp_TRX>
+<fcs_TRX>1</fcs_TRX>
+<cp_DS>1</cp_DS>
+<fp_DS>1</fp_DS>
+<fcs_DS>1</fcs_DS>
+<Crav_EDO>1</Crav_EDO>
+<Ccav>1</Ccav>
+<Csav_EDO>1</Csav_EDO>
+<K>1</K>
+<Ck_EDO>1</Ck_EDO>
+<K>1</K>
+<Ck_Permeameter>1</Ck_Permeameter>
+</row>
+</root>
