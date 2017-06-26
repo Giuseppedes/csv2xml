@@ -42,7 +42,23 @@ public class Main {
 
             while ((line = br.readLine()) != null) {
 
-                String[] row = line.split(CSV_SPLIT_BY);
+                //String[] row = line.split(CSV_SPLIT_BY);
+                String [] row = new String[nodeNames.length];
+
+                int beginIndex = 0;
+                int endIndex = line.indexOf(CSV_SPLIT_BY);
+                row[0] = line.substring(beginIndex, endIndex);
+
+                beginIndex = endIndex + 1;
+                endIndex = line.indexOf(CSV_SPLIT_BY, beginIndex);
+
+                for (int i=1; i<row.length - 1 ; i++){
+                    row[i] = line.substring(beginIndex, endIndex);
+                    beginIndex = endIndex + 1;
+                    endIndex = line.indexOf(CSV_SPLIT_BY, beginIndex);
+                }
+
+                row [row.length - 1] = line.substring(beginIndex);
 
                 writer.println("<row>");
 
